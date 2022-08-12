@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img {
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.üst {
+  background-color: #eeeeee;
+  text-align: -webkit-center;
+  margin: auto;
+  width: 90%;
+  height: auto;
+}
+.alt {
+  display: flex;
+  margin: 5px auto;
+  height: auto;
+  text-align: -webkit-center;
+  width: 90%;
+}
+.alt1 {
+  margin-right: 5px;
+  width: 40%;
+  background-color: #7ee5da;
+}
+.alt2 {
+  margin-right: 5px;
+  width: 20%;
+  background-color: #70ccc2;
+}
+.alt3 {
+  float: inline-end;
+  width: 40%;
+  background-color: #62b3aa;
+}
+#sonsoz{
+    text-align: center;
+}
